@@ -1,4 +1,4 @@
-# Portfolio
+Muzamil Rashid Zargar
 
 Welcome to my data analyst portfolio! I'm passionate about leveraging data to uncover insights and drive informed decision-making. With a background in computer Science Engineering and Administration, I specialize in programs like office 365, GSuite, RStudio, Tableau and Power BI.
 
